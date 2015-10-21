@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "debug": "~0.7.2",
-    "msgpack": "~0.2.1",
-    "mqtt": "~0.3.1",
-    "mqtt-router": "~0.1.1"
+    "msgpack": "^1.0.2",
+    "mqtt": "^1.4.3",
+    "mqtt-router": "^0.5.0"
   }
 }
