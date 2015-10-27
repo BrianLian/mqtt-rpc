@@ -3,6 +3,8 @@
 var Server = require('./lib/server.js');
 var Client = require('./lib/client.js');
 
+exports.mqtt = require('mqtt');
+
 exports.server = function(mqttclient){
   return new Server(mqttclient);
 };
