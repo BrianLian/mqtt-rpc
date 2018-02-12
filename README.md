@@ -1,4 +1,4 @@
-# mqtt-rpc [![Build Status](https://drone.io/github.com/wolfeidau/mqtt-rpc/status.png)](https://drone.io/github.com/wolfeidau/mqtt-rpc/latest)
+# mqtt-rpc
 
 This module provides an rpc interface for an mqtt connection, in essence this is a request and response strategy which uses
 an MQTT topic structure as transport.
